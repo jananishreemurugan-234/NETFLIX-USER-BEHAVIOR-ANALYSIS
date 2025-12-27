@@ -1,0 +1,15 @@
+Top genres by total watch hours (top 5):
+- Adventure: 7388.0 hours, 4914 unique viewers, avg_imdb=6.43
+- War: 6254.7 hours, 4349 unique viewers, avg_imdb=6.15
+- Animation: 6220.3 hours, 4461 unique viewers, avg_imdb=6.29
+- Sci-Fi: 6075.1 hours, 4286 unique viewers, avg_imdb=6.38
+- Action: 6004.3 hours, 4353 unique viewers, avg_imdb=6.01
+
+Median user binge_rate (fraction of sessions that are binge-like): 0.083
+
+Genres with highest average effective rating (top 5):
+- Drama: mean=5.91 (n=4090)
+- Fantasy: mean=5.83 (n=4382)
+- Thriller: mean=5.77 (n=3390)
+- Adventure: mean=5.76 (n=7070)
+- Western: mean=5.73 (n=5223)
