@@ -60,16 +60,16 @@ The analysis workflow implemented in the program code includes:
 ## OUTPUT
 ## Visualizations Included
 ## Bar Chart – Top genres by total watch hours
-
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/8ee910f4-8237-4978-9fe9-76405308800c" />
 
 ## Histogram – Distribution of watch hours per user
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/afb5f908-f16d-48f5-8771-cec9f46483b1" />
 
-
-## Histogram – Episodes watched per session (binge behavior)
-
+## Bar Chart – Episodes watched per session (binge behavior)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/df97505f-4e7b-43c4-b8fb-c9ebd0cfa00b" />
 
 ## Box Plot – Ratings distribution across genres
-
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/670ae027-8409-42cc-a06b-ef3d6195d44c" />
 
 These visualizations collectively form a user behavior analytics dashboard.
 
